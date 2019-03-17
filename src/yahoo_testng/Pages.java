@@ -26,7 +26,7 @@ public Pages(WebDriver driver)
 
 public void name(String x)
 {
-	id.sendKeys(x);
+	id.sendKeys(x);//pull
 }
 public void clicksignin()
 {
